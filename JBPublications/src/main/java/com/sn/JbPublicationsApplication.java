@@ -8,7 +8,7 @@ public class JbPublicationsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JbPublicationsApplication.class, args);
-		System.out.println("Pooja dsad");
+		System.out.println("Pooja gh dsad");
 	}
 
 }

@@ -4,13 +4,13 @@ build/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**
 !**/src/test/**
-
+HELP.md
+.gradle/
 ### STS ###
 .apt_generated
 .classpath
 .factorypath
 .project
-.settings
 .springBeans
 .sts4-cache
 
@@ -20,6 +20,7 @@ build/
 *.iml
 *.ipr
 out/
+.gradle/
 
 ### NetBeans ###
 /nbproject/private/
